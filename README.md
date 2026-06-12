@@ -146,7 +146,7 @@ Start → 06-safety_guardrails.md
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|----------|
-| 0.1 | [What Are LLMs?](./00-foundations_what_are_llms.md) | 📖 | 20 min |
+| 0 | [What Are LLMs?](./00-foundations_what_are_llms.md) | 📖 | 20 min |
 
 ---
 
@@ -155,7 +155,7 @@ Start → 06-safety_guardrails.md
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|----------|
-| 1.2 | [Prompt Engineering Techniques](./02-prompt_engineering.md) | 📖 + examples | 1 hr |
+| 1 | [Prompt Engineering Techniques](./02-prompt_engineering.md) | 📖 + examples | 1 hr |
 
 ---
 
@@ -164,7 +164,7 @@ Start → 06-safety_guardrails.md
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|----------|
-| 2.1 | [OpenAI API Quickstart](./01-apis_quickstart.md) | 📖 + 💻 | 1 hr |
+| 2 | [OpenAI API Quickstart](./01-apis_quickstart.md) | 📖 + 💻 | 1 hr |
 
 ---
 
@@ -173,7 +173,7 @@ Start → 06-safety_guardrails.md
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|----------|
-| 3.5 | [Building a RAG Pipeline End-to-End](./03-rag_pipeline.md) | 📖 + 🧪 | 2 hr |
+| 3 | [Building a RAG Pipeline End-to-End](./03-rag_pipeline.md) | 📖 + 🧪 | 2 hr |
 
 ---
 
@@ -182,16 +182,16 @@ Start → 06-safety_guardrails.md
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|----------|
-| 4.3 | [LoRA and QLoRA: Efficient Fine-Tuning](./04-finetuning_lora.md) | 📖 + 🧪 | 3 hr |
+| 4 | [LoRA and QLoRA: Efficient Fine-Tuning](./04-finetuning_lora.md) | 📖 + 🧪 | 3 hr |
 
 ---
 
-### 🔴 Phase 7 — Production
+### 🔴 Phase 5 — Production
 > *Ship it. Scale it. Keep it working. Don't go broke.*
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|----------|
-| 7.6 | [Safety, Guardrails & Content Filtering](./06-safety_guardrails.md) | 📖 + 💻 | 1.5 hr |
+| 5 | [Safety, Guardrails & Content Filtering](./06-safety_guardrails.md) | 📖 + 💻 | 1.5 hr |
 
 ---
 
