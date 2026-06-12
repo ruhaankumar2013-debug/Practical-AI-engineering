@@ -5,11 +5,11 @@
 ### The open-source, community-driven roadmap to building with Large Language Models —
 ### from your first "Hello, GPT" to shipping production AI systems.
 
-[![Stars](https://img.shields.io/github/stars/your-org/llm-dev-curriculum?style=for-the-badge&color=yellow)](https://github.com/your-org/llm-dev-curriculum/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/your-org/llm-dev-curriculum?style=for-the-badge&color=blue)](https://github.com/your-org/llm-dev-curriculum/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/ruhaankumar2013-debug/Practical-AI-engineering?style=for-the-badge&color=yellow)](https://github.com/your-org/llm-dev-curriculum/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/ruhaankumar2013-debug/Practical-AI-engineering?style=for-the-badge&color=blue)](https://github.com/ruhaankumar2013-debug/Practical-AI-engineering/graphs/contributors)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](./CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/updated-2025-orange?style=for-the-badge)](./ROADMAP.md)
+[![Last Updated](https://img.shields.io/badge/updated-2026-orange?style=for-the-badge)](./ROADMAP.md)
 
 **⭐ If this helped you, star it — it helps others find it too.**
 
