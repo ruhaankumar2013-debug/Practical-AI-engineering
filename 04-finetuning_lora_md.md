@@ -1,4 +1,4 @@
-# 03 — LoRA and QLoRA: Efficient Fine-Tuning
+# 04 — LoRA and QLoRA: Efficient Fine-Tuning
 
 > Fine-tuning a 7B model used to require 8× A100 GPUs and thousands of dollars. LoRA changed that. Today you can fine-tune on a single consumer GPU — or even for free on Google Colab. This module explains how, from theory to working code.
 
