@@ -1,4 +1,4 @@
-#3 Building a RAG Pipeline End-to-End
+# 3 Building a RAG Pipeline End-to-End
 
 > RAG (Retrieval-Augmented Generation) is how you give an LLM access to your own data — documents, databases, wikis, anything. This module walks you through building a complete, working RAG pipeline from scratch.
 
