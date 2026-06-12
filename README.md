@@ -146,7 +146,7 @@ Start → 07-production/01-deployment-options.md
 
 | # | Module | Format | Est. Time |
 |---|--------|--------|-----------|
-| 0.1 | [What Are LLMs?](./00-00-foundations_what_are_llms.md /01-what-are-llms.md) | 📖 | 20 min |
+| 0.1 | [What Are LLMs?](./00-foundations_what_are_llms/01-what-are-llms.md) | 📖 | 20 min |
 | 0.2 | [How Transformers Work (Intuitively)](./00-foundations/02-transformers-intuition.md) | 📖 + visuals | 45 min |
 | 0.3 | [Tokens, Embeddings & Context Windows](./00-foundations/03-tokens-and-embeddings.md) | 📖 + 🧪 | 30 min |
 | 0.4 | [The LLM Landscape: Models, Labs & Trends](./00-foundations/04-llm-landscape.md) | 📖 | 20 min |
